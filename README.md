@@ -1,5 +1,3 @@
-# DevDocFlow
-
 # DevDocFlow: Advanced AI Documentation and Code Assistant for ML, DL, and CV
 
 **DevDocFlow** is an intelligent, offline-capable Python library that creates dynamic, context-sensitive documentation for developers. Unlike existing tools that focus only on Q&A searches or rely heavily on internet-based models, DevDocFlow offers a fully interactive, on-the-go code assistant capable of live documentation, contextual insights, real-time execution, and code-level guidance directly in the coding environment. Built for high-impact fields like ML, DL, and CV, DevDocFlow serves as a companion for developers to access comprehensive documentation, debug in real-time, and optimize code without needing constant connectivity.
