@@ -1,4 +1,6 @@
-##### MLApp/
+# VisualML
+
+<!-- ##### MLApp/
 ##### ├── main.py                  # Main script to run the application
 ##### ├── README.md                # Documentation for the project
 ##### ├── requirements.txt         # List of required Python libraries
@@ -18,4 +20,4 @@
 ##### └── tests/                   # Folder for unit tests (optional)
 #####     ├── test_data.py         # Tests for data generation
 #####     ├── test_training.py     # Tests for training logic
-#####     └── test_gui.py          # Tests for GUI functionalities
+#####     └── test_gui.py          # Tests for GUI functionalities -->
